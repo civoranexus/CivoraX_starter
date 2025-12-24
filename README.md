@@ -1,7 +1,7 @@
 # 🚀 CivoraX Internship Program 2025-26
 
 <p align="center">
-  <img src="https://internship.civoranexus.com/logo.png" alt="CivoraX Logo" width="200"/>
+  <img src="https://internship.civoranexus.com/CivoraX.png" alt="CivoraX Logo" width="200"/>
 </p>
 
 <p align="center">
@@ -129,4 +129,5 @@
 <p align="center">
   Made with ❤️ by CivoraX Team
 </p>
+
 
